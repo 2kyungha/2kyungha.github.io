@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyunsungRoh"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D course in Architectural Engineering, Yonsei University"
+  name             : "KyunghaLEE"
+  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ph.D Candidate in Architectural Engineering, Yonsei University"
   location         : #"Korea, Somewhere"
-  email            : #"choijj1993@gmail.com"
+  email            : #"2kyungha@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
