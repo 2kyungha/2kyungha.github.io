@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "KyunghaLEE"
+  name             : "Kyungha"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D Candidate,  Architectural Engineering, Yonsei University"
   location         : #"Korea, Somewhere"
