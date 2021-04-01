@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: Curriculum Vitae
 author_profile: true
 
 
@@ -8,13 +8,9 @@ date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
 
-Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor professor, Dr.Ghang LEE).
-Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in 
-construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption 
-and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of 
-Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main 
-duties involved researching how to improve the approvals system and performance-based system for super high-rise 
-building regulations.
+Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor professor, Dr. Ghang LEE).
+Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. 
+Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
 
 ## Experience
 
@@ -30,18 +26,17 @@ building regulations.
 
 ## Research Porejcts
 
- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, (2018 – Present)
- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, 
+- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, 
 Infrastructure and Transport, Korea, (2016 - 2018)
- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
 1st stage, Ministry of Land, Infrastructure and Transport, Korea, (2014 – 2016)
- Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea, 
+- Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea, 
 (2014 – 2017)
- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea, (2011 – 2014)
- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register of 
-Shipping, Korea, (2009)
- Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, 
+- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea, (2011 – 2014)
+- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register, Korea, (2009)
+- Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, 
 Transport and Maritime Affairs, Korea, (2008 - 2009)
 
 
