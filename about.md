@@ -14,25 +14,23 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 
 ## Experience
 
-- Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea, (2014 – Present)
-- Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University, (2014-2015)
-- Assistant Instructor, Digital Fabrication Lab and Digital Design Lab, Yonsei University, Korea, (2014)
-- Research Assistant, Korea Research Institute for Construction Policy (RICON), Korea, (2011 – 2014)
-- Assistant Manager, Dept. of BIM Engineering Service, DoallTech, Korea, (2010 – 2011)
-- Lecturer, Dept. of Civil Engineering, Mongolia University of Science and Technology, Mongolia, (2006 – 2010)
-- Designer, Ballhae Architecture & Development, Apartment Complex design team, Korea, (2005 – 2006)
-- Intern, Seoul Housing Corporation of Seoul Metropolitan, Eunpyung New-Town Regeneration, Korea, (2005)
+- Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea (2014 – Present)
+- Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University (2014-2015)
+- Assistant Instructor, Digital Fabrication Lab and Digital Design Lab, Yonsei University, Korea (2014)
+- Research Assistant, Korea Research Institute for Construction Policy (RICON), Korea (2011 – 2014)
+- Assistant Manager, Dept. of BIM Engineering Service, DoallTech, Korea (2010 – 2011)
+- Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia (2006 – 2010)
 
 
 ## Research Porejcts
 
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, (2018 – Present)
-- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea, (2016 - 2018)
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea, (2014 – 2016)
-- Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea, (2014 – 2017)
-- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea, (2011 – 2014)
-- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register, Korea, (2009) 
-- Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea, (2008 - 2009)
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea (2018 – Present)
+- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea (2016 - 2018)
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea (2014 – 2016)
+- Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea (2014 – 2017)
+- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea (2011 – 2014)
+- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register Korea, (2009) 
+- Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea (2008 - 2009)
 
 
 
