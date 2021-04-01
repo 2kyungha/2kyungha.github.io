@@ -15,8 +15,16 @@ Policy on Super high-rise building regulations at the Korea Research Institute f
 duties involved researching how to improve the approvals system and performance-based system for super high-rise 
 building regulations.
 
-## Motivation
+## Experience
 
+- Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea, (2014 – Present)
+- Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University, (2014-2015)
+- Assistant Instructor, Digital Fabrication Lab and Digital Design Lab, Yonsei University, Korea, (2014)
+- Research Assistant, Korea Research Institute for Construction Policy (RICON), Korea, (2011 – 2014)
+- Assistant Manager, Dept. of BIM Engineering Service, DoallTech, Korea, (2010 – 2011)
+- Lecturer, Dept. of Civil Engineering, Mongolia University of Science and Technology, Mongolia, (2006 – 2010)
+- Designer, Ballhae Architecture & Development, Apartment Complex design team, Korea, (2005 – 2006)
+- Intern, Seoul Housing Corporation of Seoul Metropolitan, Eunpyung New-Town Regeneration, Korea, (2005)
 나는 기억력이 좋지 못하다. 그래서 기억력을 향상 시키기 위해 훈련해야겠지만 그전에 먼저 장단기적으로 기억 해야할 것들을 잊지 않기위해 어딘가에 잘 보관해 두는 것이 중요했다.
 
 그렇게 몇년동안 실제로 일하면서, 공부하면서 겪은 것들을 습관적으로
