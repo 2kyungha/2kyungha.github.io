@@ -51,15 +51,33 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 
 ## Publications
 
+### Academic Journal
+- Lee, K., Park, J., Pang, K., Yun, S., Paek, J., (2009), “A Study on Developing a BIM-based Construction Simulation Application” Architectural Institute of Korea, 25(5), Korea
+
+
 ### Academic Conference Presentation
--  Kang, K.E. & Lee, K. (2021, April 10). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” Paper will be presenting at 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
--  
+- Kang, K.E. and Lee, K. (2021). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
+- Lee, K., Lee, G. and Choi, J. (2021, April 21). "Automated Extraction of Construction Project Information Using Web Scraping", Spring Annual Conference of Architectural Institute of Korea (AIK), April 21-23, 2021.
+- Lee, K. and Lee, G. (2021), "Characteristics of BIM Adoption Policies in South Korea", Spring Annual Conference of Architectural Institute of Korea (AIK), April 21-23, 2021.
+- Kang, S., Jeon, K., Lee, K. and Lee, G., (2019), "A Comparative Review of Methodologies to Define Exchange Requirements." Paper presented at the I3CDE 2019, Penang, Malaysia.
+- Lee, K., Lee, G. (2017), "Development of a Structured Classification System for Building Information Modeling (BIM) Projects.", Journal of The Architectural Institute of Korea 2017, 37(2), 63 - 66, Gyeongju, Korea
+- Lee, K., Lee, G., (2017), “An Improvement Direction for Collecting BIM Project Information.”, Proceedings of the Society for Computational Design and Engineering (CDE) Conference , Gangwon-do, Korea
+- Lee, G., Lee, K., Jung, W., Hwang, K., Han, S., Jung, N., Lee. H., Kim. M. (2016). "Introduction to the Global BIM Dashboard.", 16th International Conference on Computing in Civil and Building Engineering (ICCCBE) 2016. Osaka, Japan
+- An, Y., Lee, G., Jung, N., Lee, K., Hwang, K., Han, S., (2016) “Derivation of Knowledge Types for a Global BIM Dashboard.” Proceedings of the Society for Computational Design and Engineering (CDE) Conference, Busan, Korea
+- Lee, K., Lee, G. and Lee, H. (2016)."An analysis of collaboration items of existing best practices studies to develop a BIM project case base", Proceedings of the Society for Computational Design and Engineering (CDE) Conference, Ganwon-do, Korea,
+- Lee, K., Uhm, M., Lee, H., Lee, G. (2015), "Derivation of BIM Project Properties Through an Analysis of On-Line BIM Project Cases", Journal of the Korea Institute of Building Construction 15(2): 194-195., Seoul, Korea
+- Lee, K., Lee, G., Lee, H. (2015), "An Analysis of Websites for BIM Project Information.", Korean Journal of Computing Design and Engineering (CDE), 451-453., Kyungi-do, Korea
+- Lee, K., Park, Y., Lee, G., Jung, W., Lee, S., Lee, H. (2015), "An Introduction to South Korea's BIM Knowledge Base Development Project.", International Symposium on Automation and Robotics in Construction (ISARC), Oulu, Finland
+- Park, Y., Lee, K., Lee, H., Lee, G., (2015), "A Classification Framework for BIM Project Cases.", Journal of The Architectural Institute of Korea 35(1): 507-508., GyeongGi-do, Korea
+- Lee, K., Lee, G., (2011), “Social Network Analysis of BIM Collaboration Organization in Korea”, Korea Institute of Construction Engineering and Management, Seoul, Korea
+- Cho, S., Lee, K., Cho, Y., Paek, J., (2009), “A Study on Risk Weight Using Fuzzy in Real Estate Development Project”, International Conference on Construction on Engineering and Project Management (ICCEPM), Jeju, Korea
+- Lee, K., Park, J., Cho, S., Cho, Y., Yun, S., Paek, J., (2009), “Application of BIM Elements for Owner’s DecisionMaking Support”, Korea Institute of Building Construction, 9(1), Korea
 
 
 ### Peer-Review Journal
-- Lee, G., Lee, K. and Ahn, Y. (2021), "Diffusion of BIM in South Korea from 2016 to 2020: A Longitudinal Study", Automation in Construction
+- Lee, G., Lee, K. and An, Y. (2021), "Diffusion of BIM in South Korea from 2016 to 2020: A Longitudinal Study", Automation in Construction
 - Jeon, K., Lee, G., Kang, S., Roh, H., Jung, J., Lee, K. and Baldwin,(2021 "A Relational Framework for Smart Information Delivery Manual (IDM) Specifications", Automation in Construction
-- 
+
 
 
 
