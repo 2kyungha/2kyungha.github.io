@@ -1,12 +1,14 @@
 ---
 layout: single
 title: Curriculum Vitae
+
 author_profile: true
 
 
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
+# Kyungha LEE 
 
 Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor professor, Dr. Ghang LEE).
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. 
@@ -33,6 +35,20 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea (2008 - 2009)
 
 
+## Honor & Awards
+
+- Excellent Paper Award, “Development of a Structured Classification System for Building Information Modeling (BIM) Projects", Architectural Institute of Korea (2017)
+- Excellent Paper Award, “A Study on the Development of Rail BIM 2030 Roadmap based on the PPT Framework”, Society for Computational Design and Engineering (2017)
+- Excellent Paper Award, “Derivation of BIM Project Properties Through an Analysis of On-Line BIM Project Cases”, The Korea Institute of Building Construction (2015)
+- Best Practice, BIM Awards, "BIM applicability Assessment for Art center at Song-do IFEZ and Apartment complex", POSCO E&C and DoallTech, buildingSMART Korea (2010)
+
+
+## Honor & Awards
+
+- Excellent Paper Award, “Development of a Structured Classification System for Building Information Modeling (BIM) Projects", Architectural Institute of Korea (2017)
+- Excellent Paper Award, “A Study on the Development of Rail BIM 2030 Roadmap based on the PPT Framework”, Society for Computational Design and Engineering (2017)
+- Excellent Paper Award, “Derivation of BIM Project Properties Through an Analysis of On-Line BIM Project Cases”, The Korea Institute of Building Construction (2015)
+- Best Practice, BIM Awards, "BIM applicability Assessment for Art center at Song-do IFEZ and Apartment complex", POSCO E&C and DoallTech, buildingSMART Korea (2010)
 
 나는 기억력이 좋지 못하다. 그래서 기억력을 향상 시키기 위해 훈련해야겠지만 그전에 먼저 장단기적으로 기억 해야할 것들을 잊지 않기위해 어딘가에 잘 보관해 두는 것이 중요했다.
 
