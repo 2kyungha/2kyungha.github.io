@@ -8,7 +8,7 @@ author_profile: true
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
-# Kyungha LEE 
+
 Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor professor, Dr. Ghang LEE).
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. 
 Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
@@ -47,6 +47,19 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - English: Intermediate 
 - Mongolian: Fluent
 - Korean: Native
+
+
+## Publications
+
+### Academic Conference Presentation
+-  Kang, K.E. & Lee, K. (2021, April 10). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” Paper will be presenting at 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
+-  
+
+
+### Peer-Review Journal
+- Lee, G., Lee, K. and Ahn, Y. (2021), "Diffusion of BIM in South Korea from 2016 to 2020: A Longitudinal Study", Automation in Construction
+- Jeon, K., Lee, G., Kang, S., Roh, H., Jung, J., Lee, K. and Baldwin,(2021 "A Relational Framework for Smart Information Delivery Manual (IDM) Specifications", Automation in Construction
+- 
 
 
 
