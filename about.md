@@ -38,8 +38,13 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - Best Practice, BIM Awards, "BIM applicability Assessment for Art center at Song-do IFEZ and Apartment complex", POSCO E&C and DoallTech, buildingSMART Korea (2010)
 
 ### Research Presentation
-- GT - Yonsei Seminar, "Development of BIM Implementation case DB and BIM Best practice-BIM Knowledge base system", Georgia Institue of Technology, Atlanta, USA (2014 Aug 6-11)
-- Introduction to BIM Knowledge Base Development Project, Imperial College London
+- GT - Yonsei Seminar, "Development of BIM Implementation case DB and BIM Best practice-BIM Knowledge base system", Georgia Institue of Technology, Atlanta, USA (6 Aug 2014)
+- BIM Min-conference, "Introduction to BIM Knowledge Base Development Project", Imperial College London, UK (21 Jan 2016)
+- Stanford-Yonsei Collaborative Research Workshop, "Where are big data for BIM projects?", Stanford university, USA (25 Jan 2018)
+- USC-Yonsei Collaborative Research Workshop, "Where are big data for BIM projects?", University of Southern California, USA (29 Jan 2018)
+- Yonsei-Hong Kong Polytechnic university, "A Method for Categoizing and Analyzing Construction Project Information", Yonsei University, Korea (15 May 2018)
+- "What to Collect for Managing the BIM Aspects of Projects",  University of Texas at Austin, USA (03 Feb 2020)
+- "What to Collect for Managing the BIM Aspects of Projects",Texas A&M University, USA (30 Jan 2020)
 
 
 ## Languages 
