@@ -7,6 +7,7 @@ author_profile: true
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
+
 Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor professor, Dr.Ghang LEE).
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in 
 construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption 
@@ -25,6 +26,26 @@ building regulations.
 - Lecturer, Dept. of Civil Engineering, Mongolia University of Science and Technology, Mongolia, (2006 – 2010)
 - Designer, Ballhae Architecture & Development, Apartment Complex design team, Korea, (2005 – 2006)
 - Intern, Seoul Housing Corporation of Seoul Metropolitan, Eunpyung New-Town Regeneration, Korea, (2005)
+
+
+## Research Porejcts
+
+ Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
+2nd stage, Ministry of Land, Infrastructure and Transport, Korea, (2018 – Present)
+ Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, 
+Infrastructure and Transport, Korea, (2016 - 2018)
+ Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
+1st stage, Ministry of Land, Infrastructure and Transport, Korea, (2014 – 2016)
+ Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea, 
+(2014 – 2017)
+ Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea, (2011 – 2014)
+ Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register of 
+Shipping, Korea, (2009)
+ Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, 
+Transport and Maritime Affairs, Korea, (2008 - 2009)
+
+
+
 나는 기억력이 좋지 못하다. 그래서 기억력을 향상 시키기 위해 훈련해야겠지만 그전에 먼저 장단기적으로 기억 해야할 것들을 잊지 않기위해 어딘가에 잘 보관해 두는 것이 중요했다.
 
 그렇게 몇년동안 실제로 일하면서, 공부하면서 겪은 것들을 습관적으로
