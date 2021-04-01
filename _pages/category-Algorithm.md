@@ -1,6 +1,6 @@
 ---
-title: "Algorithm"
+title: "Curriculum Vitae"
 layout: category-Algorithm
-permalink: /Algorithm/
+permalink: /xxxxxxxxxx/
 author_profile: True
 ---
