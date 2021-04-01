@@ -43,12 +43,13 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - Best Practice, BIM Awards, "BIM applicability Assessment for Art center at Song-do IFEZ and Apartment complex", POSCO E&C and DoallTech, buildingSMART Korea (2010)
 
 
-## Honor & Awards
+## Languages 
 
-- Excellent Paper Award, “Development of a Structured Classification System for Building Information Modeling (BIM) Projects", Architectural Institute of Korea (2017)
-- Excellent Paper Award, “A Study on the Development of Rail BIM 2030 Roadmap based on the PPT Framework”, Society for Computational Design and Engineering (2017)
-- Excellent Paper Award, “Derivation of BIM Project Properties Through an Analysis of On-Line BIM Project Cases”, The Korea Institute of Building Construction (2015)
-- Best Practice, BIM Awards, "BIM applicability Assessment for Art center at Song-do IFEZ and Apartment complex", POSCO E&C and DoallTech, buildingSMART Korea (2010)
+- English: Intermediate 
+- Mongolian: Fluent
+- Korean: Native
+
+
 
 나는 기억력이 좋지 못하다. 그래서 기억력을 향상 시키기 위해 훈련해야겠지만 그전에 먼저 장단기적으로 기억 해야할 것들을 잊지 않기위해 어딘가에 잘 보관해 두는 것이 중요했다.
 
