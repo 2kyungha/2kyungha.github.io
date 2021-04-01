@@ -56,10 +56,10 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 
 
 ### Academic Conference Presentation
-- Kang, K.E. and Lee, K. (2021). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
+- Kang, K. and Lee, K. (2021). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
 - Lee, K., Lee, G. and Choi, J. (2021, April 21). "Automated Extraction of Construction Project Information Using Web Scraping", Spring Annual Conference of Architectural Institute of Korea (AIK), April 21-23, 2021.
 - Lee, K. and Lee, G. (2021), "Characteristics of BIM Adoption Policies in South Korea", Spring Annual Conference of Architectural Institute of Korea (AIK), April 21-23, 2021.
-- Kang, S., Jeon, K., Lee, K. and Lee, G., (2019), "A Comparative Review of Methodologies to Define Exchange Requirements." Paper presented at the I3CDE 2019, Penang, Malaysia.
+- Kang, S., Jeon, K., Lee, K. and Lee, G., (2019), "A Comparative Review of Methodologies to Define Exchange Requirements." Paper presented at the International Congress and Conference on Computational Design and Engineering (I3CDE) 2019, Penang, Malaysia.
 - Lee, K., Lee, G. (2017), "Development of a Structured Classification System for Building Information Modeling (BIM) Projects.", Journal of The Architectural Institute of Korea 2017, 37(2), 63 - 66, Gyeongju, Korea
 - Lee, K., Lee, G., (2017), “An Improvement Direction for Collecting BIM Project Information.”, Proceedings of the Society for Computational Design and Engineering (CDE) Conference , Gangwon-do, Korea
 - Lee, G., Lee, K., Jung, W., Hwang, K., Han, S., Jung, N., Lee. H., Kim. M. (2016). "Introduction to the Global BIM Dashboard.", 16th International Conference on Computing in Civil and Building Engineering (ICCCBE) 2016. Osaka, Japan
