@@ -8,7 +8,6 @@ author_profile: true
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
-# Kyungha LEE 
 
 Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor professor, Dr. Ghang LEE).
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. 
@@ -48,6 +47,8 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - English: Intermediate 
 - Mongolian: Fluent
 - Korean: Native
+
+
 
 
 
