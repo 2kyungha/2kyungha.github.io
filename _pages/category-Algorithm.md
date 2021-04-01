@@ -1,6 +1,6 @@
 ---
-title: "Curriculum Vitae"
-layout: category-Algorithm
+title: "Publications"
+layout: category-Publications
 permalink: /xxxxxxxxxx/
 author_profile: True
 ---
