@@ -7,13 +7,13 @@ author_profile: true
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
-건축공학과를 졸업하고 건설IT연구실에서 석사과정을 진행하고 있으며
-책임과 의무가 아닌 호기심을 동기로 Building Information Modeling(BIM) 뿐만 아니라 
-Computer Vision과 Natural Language Process, Data Science를 주제로 다룹니다.
-
-## Blog History
-
-<span style="font-size: 20px;font-weight: bold;">Since:</span><span> 2021-02-27 </span>
+Ph.D. student at Yonsei University and member of Building Informatics Group (supervisor professor, Dr.Ghang LEE).
+Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in 
+construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption 
+and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of 
+Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main 
+duties involved researching how to improve the approvals system and performance-based system for super high-rise 
+building regulations.
 
 ## Motivation
 
@@ -111,3 +111,6 @@ Elon Musk의 사상이 나와 통하는 점이 많은 것 같다.
 지금도 하고싶지 않은 일을 억지로 하면 정신과 신체에 병이 들기도 한다... <span class="md-monologue">지금의 나 ㅋ</span><br/>
 대신에 하고싶은 일을 하면 중독되어 매달린다. 이 블로그가 그 예이다.
 
+## Blog History
+
+<span style="font-size: 20px;font-weight: bold;">Since:</span><span> 2021-02-27 </span>
