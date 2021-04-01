@@ -26,18 +26,13 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 
 ## Research Porejcts
 
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
-2nd stage, Ministry of Land, Infrastructure and Transport, Korea, (2018 – Present)
-- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, 
-Infrastructure and Transport, Korea, (2016 - 2018)
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 
-1st stage, Ministry of Land, Infrastructure and Transport, Korea, (2014 – 2016)
-- Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea, 
-(2014 – 2017)
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, (2018 – Present)
+- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea, (2016 - 2018)
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea, (2014 – 2016)
+- Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea, (2014 – 2017)
 - Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea, (2011 – 2014)
-- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register, Korea, (2009)
-- Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, 
-Transport and Maritime Affairs, Korea, (2008 - 2009)
+- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register, Korea, (2009) 
+- Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea, (2008 - 2009)
 
 
 
