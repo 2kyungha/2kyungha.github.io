@@ -20,7 +20,7 @@ title                    : "Kyungha LEE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "2kyungha"
-description              : "This is a blog that takes notes on learning."
+description              : "Kyungha Lee's Vitae" #blog that takes notes on learning."
 url                      : "https://2kyungha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -222,7 +222,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
