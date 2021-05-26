@@ -1,16 +1,16 @@
 main:
   - title: "About"
     url: /about/#page #-title
-  - title: "Algorithm"
-    url: /Algorithm/
-  - title: "Arithmetic"
-    url: /Arithmetic/
-  - title: "AI"
-    url: /AI/
-  - title: "Architecture"
-    url: /Architecture/
-  - title: "All Posts"
-    url: /categories/
+#  - title: "Algorithm"
+#   url: /Algorithm/
+#  - title: "Arithmetic"
+#    url: /Arithmetic/
+#  - title: "AI"
+#    url: /AI/
+#  - title: "Architecture"
+#    url: /Architecture/
+#  - title: "All Posts"
+#    url: /categories/
     
 #  - title: "Tags"
 #    url: /tags/
