@@ -91,7 +91,4 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - An Analysis of BIM Project registration information Report 2016, buildingSMART Korea and Yonsei University (2017)
 - Debriefing of “Autodesk University 2014” at Las Vegas, The BIM, Winter 2014, Vol. 12, Korea (2014)
 
-
-## Related Skills
-
-
+ 
