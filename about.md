@@ -32,6 +32,7 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 - Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea (2008 - 2009)
 
 ### Honor & Awards
+- Excellent Paper Award, “Automated Extraction of Construction Project Information Using Web Scraping", Architectural Institute of Korea (AIK), (2021)
 - Excellent Paper Award, “Development of a Structured Classification System for Building Information Modeling (BIM) Projects", Architectural Institute of Korea (2017)
 - Excellent Paper Award, “A Study on the Development of Rail BIM 2030 Roadmap based on the PPT Framework”, Society for Computational Design and Engineering (2017)
 - Excellent Paper Award, “Derivation of BIM Project Properties Through an Analysis of On-Line BIM Project Cases”, The Korea Institute of Building Construction (2015)
@@ -49,7 +50,7 @@ Prior to entering Ph.D. course, worked for three years as a researcher for the D
 
 ## Languages 
 
-- English: Intermediate 
+- English: Fluent 
 - Mongolian: Fluent
 - Korean: Native
 
