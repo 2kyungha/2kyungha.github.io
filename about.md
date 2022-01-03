@@ -13,7 +13,10 @@ Ph.D. candidate at Yonsei University and member of Building Informatics Group (s
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
 
 
-## Publications (Journal, Conference paper, Report/Article)
+
+
+## 1. Publications (Journal, Conference paper, Report/Article)
+
 ### Academic Journal
 - Lee, K., Park, J., Pang, K., Yun, S., Paek, J., (2009), “A Study on Developing a BIM-based Construction Simulation Application” Architectural Institute of Korea, 25(5), Korea
 
@@ -47,7 +50,8 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - An Analysis of BIM Project registration information Report 2016, buildingSMART Korea and Yonsei University (2017)
 - Debriefing of “Autodesk University 2014” at Las Vegas, The BIM, Winter 2014, Vol. 12, Korea (2014)
 
-## Experience (Research Project, Presentation, Honor & Award, Language)
+## 2.Experience (Research Project, Presentation, Honor & Award, Language)
+
 ### Academic Experience
 - Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea (2014 – Present)
 - Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University (2014-2015)
@@ -81,7 +85,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - BIM Mini-conference, "Introduction to BIM Knowledge Base Development Project", Imperial College London, UK (21 Jan 2016)
 - GT-Yonsei Seminar, "Development of BIM Implementation case DB and BIM Best practice-BIM Knowledge base system", Georgia Institute of Technology, Atlanta, USA (6 Aug 2014)
 
-## Languages 
+### Languages 
 - English: Fluent 
 - Mongolian: Fluent
 - Korean: Native
