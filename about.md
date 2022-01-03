@@ -53,7 +53,6 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Mongolian: Fluent
 - Korean: Native
 
-
 ## Publications (Journal, Conference paper, Report/Article)
 
 ### Academic Journal
@@ -88,5 +87,4 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Rail BIM 2030 Roadmap and Diffusion Strategy Report, Yonsei University (2017)
 - An Analysis of BIM Project registration information Report 2016, buildingSMART Korea and Yonsei University (2017)
 - Debriefing of “Autodesk University 2014” at Las Vegas, The BIM, Winter 2014, Vol. 12, Korea (2014)
-
 
