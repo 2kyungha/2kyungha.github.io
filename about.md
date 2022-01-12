@@ -16,12 +16,12 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 ## Experience (Research Project, Presentation, Honor & Award, Language)
 
 ### Academic Experience
-- Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea (2014 – Present)
-- Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University (2014-2015)
-- Assistant Instructor, Digital Fabrication Lab and Digital Design Lab, Yonsei University, Korea (2014)
-- Research Assistant, Korea Research Institute for Construction Policy (RICON), Korea (2011 – 2014)
-- Assistant Manager, Dept. of BIM Engineering Service, DoallTech, Korea (2010 – 2011)
-- Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia (2006 – 2010)
+- Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea 
+- Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University 
+- Assistant Instructor, Digital Fabrication Lab and Digital Design Lab, Yonsei University, Korea 
+- Research Assistant, Korea Research Institute for Construction Policy (RICON), Korea 
+- Assistant Manager, Dept. of BIM Engineering Service, DoallTech, Korea 
+- Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia
 
 ### Research Projects
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea (2018 – Present)
