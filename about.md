@@ -9,17 +9,17 @@ date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-05-20 10:19:00 +0900"
 ---
 
-Ph.D. candidate at Yonsei University and member of Building Informatics Group(supervisor: Dr. Ghang LEE)[BIG](http://big.yonsei.ac.kr/people.php)
-Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy [RICON](http://www.ricon.re.kr/). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
+Ph.D. candidate at Yonsei University and member of Building Informatics Group(supervisor: Dr. Ghang LEE)[(BIG)](http://big.yonsei.ac.kr/people.php)
+Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy [(RICON)](http://www.ricon.re.kr/). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
 
 
 ## Experience (Research Project, Presentation, Honor & Award, Language)
 
 ### Academic Experience
-- Research Assistant, Building Informatics Group (BIG), Yonsei University, Korea 
+- Research Assistant, Building Informatics Group, Yonsei University, Korea 
 - Teaching Assistant, Building Regulations/ Fundamentals of Building Construction/ Building Materials/ Capstone Engineering Design, Yonsei University 
 - Assistant Instructor, Digital Fabrication Lab and Digital Design Lab, Yonsei University, Korea 
-- Research Assistant, Korea Research Institute for Construction Policy (RICON), Korea 
+- Research Assistant, Korea Research Institute for Construction Policy, Korea 
 - Assistant Manager, Dept. of BIM Engineering Service, DoallTech, Korea 
 - Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia
 
