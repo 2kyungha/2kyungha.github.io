@@ -30,7 +30,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea [(Global BIM Dashboard)](http://globalbimdashboard.org/) 
 - Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea  
 - Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea [(link)](http://www.supertec.or.kr/Sub/Sub_04_01_01.aspx) 
-- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register Korea 
+- Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register Korea [(link)](http://espacegroup.co.kr/bbs/board.php?bo_table=works&wr_id=214&sfl=wr_5&stx=2012&viewId=Years)
 - Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea 
 
 ### Honor & Awards
