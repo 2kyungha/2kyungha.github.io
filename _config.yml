@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kyungha Lee"
+title                    : "Kyungha LEE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "2kyungha"
-description              : "Kyungha Lee's Curriculum Vitae" #blog that takes notes on learning."
+description              : "Kyungha's CV" #blog that takes notes on learning."
 url                      : "https://2kyungha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D Candidate, a member of Building Informatics Group (BIG), Yonsei University"
   location         : #"Korea, Somewhere"
-  email            : #"2kyungha@yonsei.ac.kr"
+  email            : "2kyungha@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
