@@ -41,13 +41,13 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Best Practice, BIM Awards, "BIM applicability Assessment for Art center at Song-do IFEZ and Apartment complex", POSCO E&C and DoallTech, buildingSMART Korea (2010)
 
 ### Research Presentation
-- Texas Austin-Yonsei Lab-to-Lab Workshop, "What to Collect for Managing the BIM Aspects of Projects",  University of Texas at Austin, USA (03 Feb 2020)
-- TAMU-Yonsei Collaborative Research Workshop, "What to Collect for Managing the BIM Aspects of Projects",Texas A&M University, USA (30 Jan 2020)
-- Yonsei-Hong Kong Polytechnic university, "A Method for Categorizing and Analyzing Construction Project Information", Yonsei University, Korea (15 May 2018)
-- USC-Yonsei Collaborative Research Workshop, "Where are big data for BIM projects?", University of Southern California, USA (29 Jan 2018)
-- Stanford-Yonsei Collaborative Research Workshop, "Where are big data for BIM projects?", Stanford university, USA (25 Jan 2018)
-- BIM Mini-conference, "Introduction to BIM Knowledge Base Development Project", Imperial College London, UK (21 Jan 2016)
-- GT-Yonsei Seminar, "Development of BIM Implementation case DB and BIM Best practice-BIM Knowledge base system", Georgia Institute of Technology, Atlanta, USA (6 Aug 2014)
+- Texas Austin-Yonsei Lab-to-Lab Workshop, "What to Collect for Managing the BIM Aspects of Projects",  University of Texas at Austin, USA (2020)
+- TAMU-Yonsei Collaborative Research Workshop, "What to Collect for Managing the BIM Aspects of Projects",Texas A&M University, USA (2020)
+- Yonsei-Hong Kong Polytechnic university, "A Method for Categorizing and Analyzing Construction Project Information", Yonsei University, Korea (2018)
+- USC-Yonsei Collaborative Research Workshop, "Where are big data for BIM projects?", University of Southern California, USA (2018)
+- Stanford-Yonsei Collaborative Research Workshop, "Where are big data for BIM projects?", Stanford university, USA (2018)
+- BIM Mini-conference, "Introduction to BIM Knowledge Base Development Project", Imperial College London, UK (2016)
+- GT-Yonsei Seminar, "Development of BIM Implementation case DB and BIM Best practice-BIM Knowledge base system", Georgia Institute of Technology, Atlanta, USA (2014)
 
 ### Languages 
 - English: Fluent 
