@@ -9,7 +9,7 @@ date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-05-20 10:19:00 +0900"
 ---
 
-Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor: Dr. Ghang LEE). [http://big.yonsei.ac.kr/](url)
+Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor: Dr. Ghang LEE). [http://big.yonsei.ac.kr/](http://big.yonsei.ac.kr/)
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
 
 
