@@ -9,8 +9,8 @@ date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-05-20 10:19:00 +0900"
 ---
 
-Ph.D. candidate at Yonsei University and member of Building Informatics Group (supervisor: Dr. Ghang LEE) [BIG](http://big.yonsei.ac.kr/people.php)
-Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy (RICON). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
+Ph.D. candidate at Yonsei University and member of Building Informatics Group(supervisor: Dr. Ghang LEE)[BIG](http://big.yonsei.ac.kr/people.php)
+Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. course, worked for three years as a researcher for the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy [RICON](http://www.ricon.re.kr/). Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
 
 
 ## Experience (Research Project, Presentation, Honor & Award, Language)
@@ -29,7 +29,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea  [link](http://big.yonsei.ac.kr/railbim/)
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea 
 - Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea  
-- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea [http://www.supertec.or.kr/Sub/Sub_04_01_01.aspx](url) 
+- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea [link](http://www.supertec.or.kr/Sub/Sub_04_01_01.aspx) 
 - Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register Korea 
 - Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea 
 
@@ -82,7 +82,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lee, K., Park, J., Cho, S., Cho, Y., Yun, S., Paek, J., (2009), “Application of BIM Elements for Owner’s DecisionMaking Support”, Korea Institute of Building Construction, 9(1), Korea
 
 ### Reports / Article 
-- 2018 Survey on the Status of BIM Adoption in Korea, The BIM, Spring 2019, Vol. 20, Korea [https://www.buildingsmartkorea.org/bim-publications-study](url)
+- 2018 Survey on the Status of BIM Adoption in Korea, The BIM, Spring 2019, Vol. 20, Korea [link](https://www.buildingsmartkorea.org/bim-publications-study)
 - An Analysis of BIM Project registration information Report 2018, buildingSMART Korea and Yonsei University (2019)
 - An Analysis of BIM Project registration information Report 2017, buildingSMART Korea and Yonsei University (2018)
 - Rail BIM 2030 Roadmap and Diffusion Strategy Report, Yonsei University (2017)
