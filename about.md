@@ -24,12 +24,12 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia
 
 ### Research Projects
-- Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing, Information & Communications Technology Planning & Evaluation, Korea [link](http://big.yonsei.ac.kr/research.php)
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, [link](http://globalbimdashboard.org/) 
-- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea  [link](http://big.yonsei.ac.kr/railbim/)
+- Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing, Information & Communications Technology Planning & Evaluation, Korea [(link)](http://big.yonsei.ac.kr/research.php)
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, [(link)](http://globalbimdashboard.org/) 
+- Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea  [(link)](http://big.yonsei.ac.kr/railbim/)
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea 
 - Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea  
-- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea [link](http://www.supertec.or.kr/Sub/Sub_04_01_01.aspx) 
+- Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea [(link)](http://www.supertec.or.kr/Sub/Sub_04_01_01.aspx) 
 - Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register Korea 
 - Development of Virtual Construction System for BIM-based 4D Construction Simulation, Korea Ministry of Land, Transport and Maritime Affairs, Korea 
 
@@ -82,7 +82,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lee, K., Park, J., Cho, S., Cho, Y., Yun, S., Paek, J., (2009), “Application of BIM Elements for Owner’s DecisionMaking Support”, Korea Institute of Building Construction, 9(1), Korea
 
 ### Reports / Article 
-- 2018 Survey on the Status of BIM Adoption in Korea, The BIM, Spring 2019, Vol. 20, Korea [link](https://www.buildingsmartkorea.org/bim-publications-study)
+- 2018 Survey on the Status of BIM Adoption in Korea, The BIM, Spring 2019, Vol. 20, Korea [(link)](https://www.buildingsmartkorea.org/bim-publications-study)
 - An Analysis of BIM Project registration information Report 2018, buildingSMART Korea and Yonsei University (2019)
 - An Analysis of BIM Project registration information Report 2017, buildingSMART Korea and Yonsei University (2018)
 - Rail BIM 2030 Roadmap and Diffusion Strategy Report, Yonsei University (2017)
