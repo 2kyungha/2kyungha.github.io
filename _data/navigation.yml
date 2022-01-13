@@ -1,6 +1,6 @@
 main:
-  - title: "Curriculum vitae"
-    url: /Curriculum vitae/#page #-title
+  - title: "About"
+    url: /about/#page #-title
 #  - title: "Algorithm"
 #   url: /Algorithm/
 #  - title: "Arithmetic"
