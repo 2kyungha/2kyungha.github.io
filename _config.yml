@@ -20,7 +20,7 @@ title                    : "Kyungha Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "2kyungha"
-description              : "Kyungha Lee's Vitae" #blog that takes notes on learning."
+description              : "Kyungha Lee's Curriculum Vitae" #blog that takes notes on learning."
 url                      : "https://2kyungha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kyungha"
+  name             : "Kyungha Lee"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D Candidate, a member of Building Informatics Group (BIG), Yonsei University"
   location         : #"Korea, Somewhere"
