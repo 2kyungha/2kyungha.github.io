@@ -25,9 +25,9 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 
 ### Research Projects
 - Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing, Information & Communications Technology Planning & Evaluation, Korea [(link)](http://big.yonsei.ac.kr/research.php)
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, [(link)](http://globalbimdashboard.org/) 
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea, 
 - Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea  [(link)](http://big.yonsei.ac.kr/railbim/)
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea 
+- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea [(link)](http://globalbimdashboard.org/) 
 - Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea  
 - Policy on Super High-rise Building Regulations, Ministry of Land, Infrastructure and Transport, Korea [(link)](http://www.supertec.or.kr/Sub/Sub_04_01_01.aspx) 
 - Project Management for Korean Register of Shipping’s Headquarter building construction, Korean Register Korea 
