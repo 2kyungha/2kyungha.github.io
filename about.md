@@ -82,7 +82,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lee, K., Park, J., Cho, S., Cho, Y., Yun, S., Paek, J., (2009), “Application of BIM Elements for Owner’s DecisionMaking Support”, Korea Institute of Building Construction, 9(1), Korea
 
 ### Reports / Article 
-- 2018 Survey on the Status of BIM Adoption in Korea, The BIM, Spring 2019, Vol. 20, Korea (2019)
+- 2018 Survey on the Status of BIM Adoption in Korea, The BIM, Spring 2019, Vol. 20, Korea [https://www.buildingsmartkorea.org/bim-publications-study](url)
 - An Analysis of BIM Project registration information Report 2018, buildingSMART Korea and Yonsei University (2019)
 - An Analysis of BIM Project registration information Report 2017, buildingSMART Korea and Yonsei University (2018)
 - Rail BIM 2030 Roadmap and Diffusion Strategy Report, Yonsei University (2017)
