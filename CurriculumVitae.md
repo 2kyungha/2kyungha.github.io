@@ -61,7 +61,8 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lee, K., Park, J., Pang, K., Yun, S. and Paek, J. (2009), “A Study on Developing a BIM-based Construction Simulation Application” Architectural Institute of Korea, 25(5)
 
 ### Academic Conference Presentation
-- Kang, K. and Lee, K. (2021). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
+- Choi, J., Lee, G., and Lee, K. (2021) "Construction Trend Analysis Using GPT-3.", Proceedings of the 38th International Symposium on Automation and Robotics in Construction (ISARC), pp. 00-00, Dubai, United Arab Emirates, 2-5 Nov
+- Kang, K. E. and Lee, K. (2021). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
 - Lee, K., Lee, G. and Choi, J. (2021, April 21). "Automated Extraction of Construction Project Information Using Web Scraping", Spring Annual Conference of Architectural Institute of Korea (AIK), April 21-23, 2021.
 - Lee, K. and Lee, G. (2021), "Characteristics of BIM Adoption Policies in South Korea", Spring Annual Conference of Architectural Institute of Korea (AIK), April 21-23, 2021.
 - Kang, S., Jeon, K., Lee, K. and Lee, G., (2019), "A Comparative Review of Methodologies to Define Exchange Requirements." Paper presented at the International Congress and Conference on Computational Design and Engineering (I3CDE) 2019, Penang, Malaysia.
