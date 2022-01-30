@@ -58,7 +58,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 
 ### Peer-Review Journal 
 - Jeon, K., Lee, G., Kang, S., Roh, H., Jung, J., Lee, K. and Baldwin, M. (2021) “A relational framework for smart information delivery manual (IDM) specifications,” Advanced Engineering Informatics, vol. 49, p. 101319
-- Lee, K., Park, J., Pang, K., Yun, S. and Paek, J., (2009), “A Study on Developing a BIM-based Construction Simulation Application” Architectural Institute of Korea, 25(5)
+- Lee, K., Park, J., Pang, K., Yun, S. and Paek, J. (2009), “A Study on Developing a BIM-based Construction Simulation Application” Architectural Institute of Korea, 25(5)
 
 ### Academic Conference Presentation
 - Kang, K. and Lee, K. (2021). “Understanding the Relationship Between the Collaboration and Income Inequality in the Land Development.” 82nd Annual Conference of the American Society for Public Administration (ASPA), Virtual Conference, April 9-15, 2021.
