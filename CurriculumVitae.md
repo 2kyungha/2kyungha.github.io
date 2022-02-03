@@ -9,7 +9,7 @@ date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-05-20 10:19:00 +0900"
 ---
 
-Ph.D. candidate at Yonsei University and member of Building Informatics Group[(BIG)](http://big.yonsei.ac.kr)(supervisor: Dr. Ghang LEE)
+Ph.D. candidate at Yonsei University and member of [Building Informatics Group(BIG)](http://big.yonsei.ac.kr)(supervisor: Dr. Ghang Lee)
 Proactive researcher with a focus on BIM case-based knowledge management, BIM adoption and collaboration in construction industry. Actively presented papers at academic conferences including introduction Korea BIM adoption and implementation. Prior to entering Ph.D. programe, worked as a researcher in the Department of Policy on Super high-rise building regulations at the Korea Research Institute for Construction Policy[(RICON)](http://www.ricon.re.kr/en/main.php) for three years. Main duties involved researching how to improve the approvals system and performance-based system for super high-rise building regulations.
 
 
@@ -24,7 +24,7 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia
 
 ### Research Projects
-- Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing, Information & Communications Technology Planning & Evaluation, Korea [(link)](http://big.yonsei.ac.kr/research.php)
+- [Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing, Information & Communications Technology Planning & Evaluation, Korea](http://big.yonsei.ac.kr/research.php)
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea [(OpenBIM)](http://www.kbims.or.kr/en_main)
 - Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea  [(Rail BIM)](http://big.yonsei.ac.kr/railbim/)
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea [(Global BIM Dashboard)](http://globalbimdashboard.org/) 
