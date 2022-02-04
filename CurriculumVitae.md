@@ -24,8 +24,8 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 - Lecturer, Department of Civil Engineering, Mongolia University of Science and Technology, Mongolia
 
 ### Research Projects
-- [Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing], Information & Communications Technology Planning & Evaluation, Korea(http://big.yonsei.ac.kr/research.php)
-- Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 2nd stage, Ministry of Land, Infrastructure and Transport, Korea [(OpenBIM)](http://www.kbims.or.kr/en_main)
+- [Digitalizing Construction Project Requirements Using Artificial Intelligence and Natural Language Processing](http://big.yonsei.ac.kr/research.php), Information & Communications Technology Planning & Evaluation, Korea
+- [Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology(OpenBIMG)](http://www.kbims.or.kr/en_main), 2nd stage, Ministry of Land, Infrastructure and Transport, Korea
 - Development of BIM-based Standard Management Technology for Railway Infrastructure, Ministry of Land, Infrastructure and Transport, Korea  [(Rail BIM)](http://big.yonsei.ac.kr/railbim/)
 - Development of OpenBIM based Architectural Design Support Automation and Facility Management Technology, 1st stage, Ministry of Land, Infrastructure and Transport, Korea [(Global BIM Dashboard)](http://globalbimdashboard.org/) 
 - Advanced Architectural Performance Technologies based on Future Information, Ministry of Education, Korea  
