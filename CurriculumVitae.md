@@ -6,7 +6,7 @@ author_profile: true
 
 
 date: "2021-02-27 18:47:00 +0900"
-last_modified_at: "2021-05-20 10:19:00 +0900"
+last_modified_at: "2023-05-20 10:19:00 +0900"
 ---
 
 Ph.D. candidate at Yonsei University and member of [Building Informatics Group(BIG)](http://big.yonsei.ac.kr)(supervisor: Dr. Ghang Lee)
@@ -56,8 +56,9 @@ Proactive researcher with a focus on BIM case-based knowledge management, BIM ad
 
 ## Publications (Journal, Conference paper, Report/Article)
 
-### Peer-Review Journal 
-- Jeon, K., Lee, G., Kang, S., Roh, H., Jung, J., Lee, K. and Baldwin, M. (2021) “A relational framework for smart information delivery manual (IDM) specifications,” Advanced Engineering Informatics, vol. 49, p. 101319
+### Peer-Reviewed Journal 
+- Kang, K. E., Lee, K. (2023) "Collaboration and Public Participation for Municipal Growth in Land Economic Development Projects" Economic Development Quarterly, vol.37(2) p.170-182
+- Jeon, K., Lee, G., Kang, S., Roh, H., Jung, J., Lee, K. and Baldwin, M. (2021) “A relational framework for smart information delivery manual (IDM) specifications” Advanced Engineering Informatics, vol. 49, p. 101319
 - Lee, K., Park, J., Pang, K., Yun, S. and Paek, J. (2009) “A Study on Developing a BIM-based Construction Simulation Application” Architectural Institute of Korea, 25(5)
 
 ### Academic Conference Presentation
